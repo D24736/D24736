@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D24736
 - 👀 I’m interested in python, javascript and Linux
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning data analytics
+- 💞️ I’m looking to collaborate on database projects
 - 📫 How to reach me ...
 
 <!---
